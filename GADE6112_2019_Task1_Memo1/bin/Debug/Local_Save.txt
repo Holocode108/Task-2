@@ -1,0 +1,125 @@
+START OF SAVE
+UNITS -- FACTION 0
+Archer Ranged: {U}(10,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(16,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{X}(5,24)0, 1, 2, 1 DEAD!
+Guardsman Melee:{X}(11,11)0, 1, 2, 1 DEAD!
+Guardsman Melee:{M}(10,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(16,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(10,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(16,4)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(8,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(14,4)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(8,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(14,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(10,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(16,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(10,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(16,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(10,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(16,4)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(10,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(16,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,13)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,6)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(8,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(14,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(10,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(16,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(10,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(16,4)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(8,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(14,4)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(8,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(14,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(10,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(16,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(10,11)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(16,4)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(8,11)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(14,4)1, 1, 2, 1 ALIVE!
+
+UNITS -- FACTION 1
+Archer Ranged: {U}(13,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(19,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{X}(10,20)0, 1, 2, 1 DEAD!
+Guardsman Melee:{X}(16,18)0, 1, 2, 1 DEAD!
+Guardsman Melee:{M}(13,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(19,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(13,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(19,9)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(11,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(17,9)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(11,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(17,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(13,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(19,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(13,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(19,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(13,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(19,9)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(13,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(19,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{X}(13,19)0, 1, 2, 1 DEAD!
+Guardsman Melee:{M}(17,11)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(11,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(17,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(13,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(19,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(13,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(19,9)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(11,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(17,9)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(11,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(17,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(13,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(19,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Archer Ranged: {U}(13,17)1, 1, 1, 1 ALIVE!
+Archer Ranged: {U}(19,9)1, 1, 1, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(11,17)1, 1, 2, 1 ALIVE!
+Guardsman Melee:{M}(17,9)1, 1, 2, 1 ALIVE!
+
+BUILDINGS-- FACTION 0
+RForge Resource:{R}(2,16)Health 3,  ALIVE!
+FFactory Resource:{F}(9,12)Heath:3,  ALIVE!
+RForge Resource:{R}(6,1)Health 3,  ALIVE!
+FFactory Resource:{F}(15,5)Heath:3,  ALIVE!
+RForge Resource:{R}(3,4)Health 3,  ALIVE!
+
+BUILDINGS-- FACTION 1
+FFactory Resource:{F}(12,18)Heath:3,  ALIVE!
+RForge Resource:{R}(12,15)Health 3,  ALIVE!
+FFactory Resource:{F}(18,10)Heath:3,  ALIVE!
+RForge Resource:{R}(4,0)
